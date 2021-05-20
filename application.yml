@@ -1,3 +1,6 @@
+
+user:
+  firstName: Aparna
 management:
   endpoint:
     health:
